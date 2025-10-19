@@ -10,8 +10,14 @@ This is my journal of the design and building process of **Clippy**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/764).
 
 
-## 10/19/2025 - Created BOM.csv and started case  
+## 10/19/2025 12 PM - Created BOM.csv and started case  
 
 I created the VOM.csv and added the two things i need. I started the case which will hold the arduino uno, screen, microphone, and the potentiometer. I will start the read me after i finish the case and then i will get started on the code which will be fun!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--6c1ab0dc6dcb40eb70ea85667d0b9ea191ca3116/image.png)
   
+
+## 10/19/2025 1 PM - Finished Case  
+
+I finished my first version of the case I will probably make it better later. I am going to work on my read me file and then I will start my code and update my case to complete everything I will also add cheaper items to my BOM.csv I think I can reduce the price more.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--92e1548024dd0fad2184366c6d8a21e69f7ecd11/image.png)
+   
 
