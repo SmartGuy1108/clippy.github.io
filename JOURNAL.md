@@ -26,3 +26,8 @@ I finished my first version of the case I will probably make it better later. I 
 I created the README.md file and finished my case! I also uploaded the .step file for the case 3d model. I will work on the code now! After the code I will be done with this and can ship it! I think that the code is probably going to be the hardest part of this.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
   
 
+## 10/19/2025 4 PM - Finished the first version of the code!  
+
+As I started making the code I realized that a Arduino uno will not be able to run this so I changed it to a raspberry pi so it can run on its own. After changing it I had to update the BOM with compatible items which were also cheaper. I updated everything and found a image to use for the face of Clip![Copilot_20251019_160913.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--aee6a1adade9037e77ae5d2e2fb020725f47b18a/Copilot_20251019_160913.png)
+py.  
+
