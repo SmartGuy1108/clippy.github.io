@@ -4,7 +4,7 @@ Hi there!
 This is my porject for Hackclub Blueprint. It is an ai bot that you can chat with and that will respond to you!
 
 Whats in it:
-Arduino Uno
+Raspberry Pi
 A Mic
 A Speaker
 A Screen
