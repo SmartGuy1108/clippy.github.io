@@ -21,3 +21,8 @@ I finished my first version of the case I will probably make it better later. I 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--92e1548024dd0fad2184366c6d8a21e69f7ecd11/image.png)
    
 
+## 10/19/2025 2 PM - Made README.md  
+
+I created the README.md file and finished my case! I also uploaded the .step file for the case 3d model. I will work on the code now! After the code I will be done with this and can ship it! I think that the code is probably going to be the hardest part of this.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
+  
+
