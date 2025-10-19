@@ -12,7 +12,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ## 10/19/2025 12 PM - Created BOM.csv and started case  
 
-I created the VOM.csv and added the two things i need. I started the case which will hold the arduino uno, screen, microphone, and the potentiometer. I will start the read me after i finish the case and then i will get started on the code which will be fun!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--6c1ab0dc6dcb40eb70ea85667d0b9ea191ca3116/image.png)
+I created the VOM.csv and added the two things i need. I started the case which will hold the raspberry i 3 b, screen, microphone, and the potentiometer. I will start the read me after i finish the case and then i will get started on the code which will be fun!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--6c1ab0dc6dcb40eb70ea85667d0b9ea191ca3116/image.png)
   
 
 ## 10/19/2025 1 PM - Finished Case  
