@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Clippy**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/764).
-
-
 ## 10/19/2025 12 PM - Created BOM.csv and started case  
 
 I created the VOM.csv and added the two things i need. I started the case which will hold the raspberry i 3 b, screen, microphone, and the potentiometer. I will start the read me after i finish the case and then i will get started on the code which will be fun!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--6c1ab0dc6dcb40eb70ea85667d0b9ea191ca3116/image.png)
@@ -30,4 +26,9 @@ I created the README.md file and finished my case! I also uploaded the .step fil
 
 As I started making the code I realized that a Arduino uno will not be able to run this so I changed it to a raspberry pi so it can run on its own. After changing it I had to update the BOM with compatible items which were also cheaper. I updated everything and found a image to use for the face of Clip![Copilot_20251019_160913.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--aee6a1adade9037e77ae5d2e2fb020725f47b18a/Copilot_20251019_160913.png)
 py.  
+
+## 10/21/2025 - Finished half the PCB  
+
+Since I cannot use the Raspberry pi 4 anymore, I started designing my own PCB which is inspired by the Open Rex one. I have finished half of it. I will complete the rest of it later. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--677374e6ced407a14af597edb329a53bf01e2718/image.png)
+  
 
