@@ -32,3 +32,8 @@ py.
 Since I cannot use the Raspberry pi 4 anymore, I started designing my own PCB which is inspired by the Open Rex one. I have finished half of it. I will complete the rest of it later. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--677374e6ced407a14af597edb329a53bf01e2718/image.png)
   
 
+## 10/24/2025 - Added Models of Final Design  
+
+I added the designs of how the final model should look and in the process I also learnt how to use on shape. Also please ignore the PCB journal entry because I posted it in the wrong project and it wont let me delete it.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
+  
+
