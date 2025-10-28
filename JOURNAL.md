@@ -27,11 +27,6 @@ I created the README.md file and finished my case! I also uploaded the .step fil
 As I started making the code I realized that a Arduino uno will not be able to run this so I changed it to a raspberry pi so it can run on its own. After changing it I had to update the BOM with compatible items which were also cheaper. I updated everything and found a image to use for the face of Clip![Copilot_20251019_160913.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--aee6a1adade9037e77ae5d2e2fb020725f47b18a/Copilot_20251019_160913.png)
 py.  
 
-## 10/21/2025 - Finished half the PCB  
-
-Since I cannot use the Raspberry pi 4 anymore, I started designing my own PCB which is inspired by the Open Rex one. I have finished half of it. I will complete the rest of it later. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--677374e6ced407a14af597edb329a53bf01e2718/image.png)
-  
-
 ## 10/24/2025 - Added Models of Final Design  
 
 I added the designs of how the final model should look and in the process I also learnt how to use on shape. Also please ignore the PCB journal entry because I posted it in the wrong project and it wont let me delete it.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
