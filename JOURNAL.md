@@ -20,7 +20,7 @@ I finished the first version of the case. Adding the holes for the screen was ki
 
 ## 10/19/2025 2 PM - Made README.md  
 
-I created the README.md file and finished my case! I also uploaded the .step file for the case 3d model. I will work on the code now! After the code I will be done with this and can ship it! I think that the code is probably going to be the hardest part of this.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
+I created the README.md file and finished my case! I also uploaded the .step file for the case 3d model. I will work on coding it now the code is going to be hard but it will be fun to make! I think that after the code I will find more things to add to the final product and see what all I can upgrade![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
   
 
 ## 10/19/2025 4 PM - Finished the first version of the code!  
