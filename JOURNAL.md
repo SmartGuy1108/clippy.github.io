@@ -30,6 +30,6 @@ As I started making the code I realized that a Arduino uno will not be able to r
 
 ## 10/24/2025 - Added Models of Final Design  
 
-I added the designs of how the final model should look and in the process I also learnt how to use on shape. Also please ignore the PCB journal entry because I posted it in the wrong project and it wont let me delete it.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
+I added the designs of how the final product should look and in the process, I also learnt how to use on shape. It took a while for me to learn on shape but once I did learn it was rally easy to use. I will probably have to update my BOM and final model because I plan on adding more features. I also realized that I forgot to add a speaker which I will add now!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
   
 
