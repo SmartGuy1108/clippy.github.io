@@ -14,7 +14,7 @@ I created the BOM.csv with two item (the microphone and the screen). I started t
 
 ## 10/19/2025 1 PM - Finished Case  
 
-I finished my first version of the case I will probably make it better later. I am going to work on my read me file and then I will start my code and update my case to complete everything I will also add cheaper items to my BOM.csv I think I can reduce the price more.
+I finished the first version of the case. Adding the holes for the screen was kind of hard as it does not say how big the pins are so I had to make an estimate. I will check to make sure they are the right size in the 3d model, I am going to work on my readme.md file and then I will start my code I will also try and find cheaper items to see if I can reduce the cost. I might also try and see what other features I can include to make the final product even better! 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--92e1548024dd0fad2184366c6d8a21e69f7ecd11/image.png)
    
 
