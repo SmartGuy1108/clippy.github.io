@@ -31,7 +31,15 @@ Challenges: I’ll need to check if the screen fits after the screen and box arr
 
 ## 10/19/2025 2 PM - Made README.md  
 
-I created the README.md file and finished my case! I also uploaded the .step file for the case 3d model. I will work on coding it now the code is going to be hard but it will be fun to make! I think that after the code I will find more things to add to the final product and see what all I can upgrade![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
+What I did: I wrote the README.md file and uploaded the .STEP file for the case.
+
+How I did it: The README is a basic description of Clippy, the things I used, and what its basic functions should be. 
+
+What went well: The README.md tells the reader what the project should do and the materials used.
+
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
   
 
 ## 10/19/2025 4 PM - Finished the code  
