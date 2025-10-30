@@ -8,7 +8,13 @@
 
 ## 10/19/2025 12 PM - Created BOM.csv and started case  
 
-I created the BOM.csv with two item (the microphone and the screen). I started the case which will hold the raspberry pi 3 b, screen, microphone, and the potentiometer. I will start the read me after I finish the case and then I will get started on the code which will be the hardest part of the project but also the most fun!
+What I did: I made the BOM.csv file with the microphone and screen. I also began the case that will hold the Raspberry Pi, screen, microphone, and potentiometer.
+
+How I did it: I researched the cheapest parts based on my plan and added them to the BOM. For the case I started by making the project files and adding the pieces needed.
+
+What went well: I was able to find affordable components and made my BOM easily.
+
+Next steps: I’ll finish the case, then move on to writing the README and starting the code.
 ![Screenshot 2025-10-19 122706](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c8665cc2f588517d130734f4a5bc04a2d2aa7227/Screenshot%202025-10-19%20122706.png)
   
 
