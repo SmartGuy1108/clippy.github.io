@@ -42,9 +42,15 @@ What went well: The README.md tells the reader what the project should do and th
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--96ef67d64dd0cff751b4d2a27a48102a858159a8/image.png)
   
 
-## 10/19/2025 4 PM - Finished the code  
+## 10/19/2025 4 PM - Hardware Switch & Planning Code  
 
-As I started making the code I realized that a Arduino uno will not be able to run this so I changed it to a raspberry pi so it can run on its own without needing any external connections to help it run. After changing it I had to update the BOM with compatible items which were also cheaper. I updated everything and found a image to use for the face of Clippy! I am going to find things to make the final product better like maybe a power bank so it does not always need to be connected to a charger![Copilot_20251019_160913.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--aee6a1adade9037e77ae5d2e2fb020725f47b18a/Copilot_20251019_160913.png)
+What I did: I was starting the code for the Arduino Uno and then when looking through the specs to make sure that it would work to handle all the code on it's own I realized that it couldn’t handle Clippy’s requirements, so I looked at what I had and decided to use a Raspberry pi 3b instead.
+
+How I did it: I reviewed the limitations of the Arduino Uno Rev 3 on the arduino web site and checked to see its processing power and capabilities. Once I concluded that the Arduino Uno could not handle the code I checked what other equipment I already had to make sure I did not spend anything extra and decided to use my Raspberry Pi 3b. The Pi supports Python and has enough processing power for voice input and screen output.
+
+What went well: The switch made my project work and let me use improved items to make it run better. 
+
+Next steps: Update the README.md and begin coding. Coding will include adding the speech recognition for "Hey Clippy" and then adding the code to make it use chatgpt. After that I will work on adding captions on the screen and adding the image of clippy which is a bitmap I already have. ![Copilot_20251025_180540](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c1830a1d28cc4bd948b91f01aa7ce65e367d199/Copilot_20251025_180540.png)
   
 
 ## 10/24/2025 - Added Models of Final Design  
