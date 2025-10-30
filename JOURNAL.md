@@ -20,7 +20,12 @@ Next steps: I’ll finish the case, then move on to writing the README and start
 
 ## 10/19/2025 1 PM - Finished Case  
 
-I finished the first version of the case. Adding the holes for the screen was kind of hard as it does not say how big the pins are so I had to make an estimate. I will check to make sure they are the right size in the 3d model, I am going to work on my readme.md file and then I will start my code I will also try and find cheaper items to see if I can reduce the cost. I might also try and see what other features I can include to make the final product even better! 
+What I did: I completed the case.
+
+How I did it: I added cutouts for the screen's pins and potentiometer. Since the screen’s pin dimensions weren’t on amazon, I estimated and adjusted the model accordingly. As for the mic it will be hidden inside the case and placed down by the ventilation holes. 
+
+What went well: The case is the exact size of the raspberry pi 3 and the components should fit cleanly in the lid and box.
+Challenges: I’ll need to check if the screen fits after the screen and box arrive. If the screen does not fit I will cut out the hole so the screen does fit.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--92e1548024dd0fad2184366c6d8a21e69f7ecd11/image.png)
    
 
