@@ -50,7 +50,8 @@ How I did it: I reviewed the limitations of the Arduino Uno Rev 3 on the arduino
 
 What went well: The switch made my project work and let me use improved items to make it run better. 
 
-Next steps: Update the README.md and begin coding. Coding will include adding the speech recognition for "Hey Clippy" and then adding the code to make it use chatgpt. After that I will work on adding captions on the screen and adding the image of clippy which is a bitmap I already have. ![Copilot_20251025_180540](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c1830a1d28cc4bd948b91f01aa7ce65e367d199/Copilot_20251025_180540.png)
+Next steps: Update the README.md and begin coding. Coding will include adding the speech recognition for "Hey Clippy" and then adding the code to make it use chatgpt. After that I will work on adding captions on the screen and adding the image of clippy which is a bitmap I already have. ![Copilot_20251019_160913](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--0a99657d531e77888246fecb3cab814a30b3b4c3/Copilot_20251019_160913.png)
+
   
 
 ## 10/24/2025 - Added Models of Final Design  
