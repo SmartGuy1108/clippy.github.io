@@ -49,6 +49,14 @@ As I started making the code I realized that a Arduino uno will not be able to r
 
 ## 10/24/2025 - Added Models of Final Design  
 
-I added the designs of how the final product should look and in the process, I also learnt how to use on shape. It took a while for me to learn on shape but once I did learn it was rally easy to use. I will probably have to update my BOM and final model because I plan on adding more features. I also realized that I forgot to add a speaker which I will add now!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
+What I did: I uploaded the case and learned how to use Onshape.
+
+How I did it: To learn Onshape I watched the tutorials in the learning hub and practiced moving around. I edited the case to make sure there is enough space for the pins of the screen to fit.
+
+What went well: Learning Onshape was a hard, but once I got the hang of it, it became easy.
+
+What's next: I will add a powerbank to the design to ensure portability. After I made the models I realized that I forgot to add the speaker and decided to use external speakers I already have.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
   
 
