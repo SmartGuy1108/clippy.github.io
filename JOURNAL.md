@@ -54,16 +54,16 @@ Next steps: Update the README.md and begin coding. Coding will include adding th
 
   
 
-## 10/24/2025 - Added Models of Final Design  
+## 10/24/2025 - Wrote The Code  
 
-What I did: I uploaded the case and learned how to use Onshape.
+What I did: I used python to create the code. After writing the code in VS Code, I deployed it to the Raspberry Pi. I first got Raspberry Pi OS on my Raspberry Pi to be able to run my code. I then installed all required libraries to run my code and cloned my github repository, which contained the code.
 
-How I did it: To learn Onshape I watched the tutorials in the learning hub and practiced moving around. I edited the case to make sure there is enough space for the pins of the screen to fit.
+How I did it: I controlled my components using the RPi.GPIO library. I started configuring the microphone using Python's audio libraries. Additionally, I installed packages to support potentiometer readings and speaker output. In order to make updates after the items arrived easy, I wrote the code to keep each hardware function modular.
 
-What went well: Learning Onshape was a hard, but once I got the hang of it, it became easy.
+What went well: The Raspberry Pi booted successfully, and the libraries downloaded quickly. The code compiled without issues which was good.
 
-What's next: I will add a powerbank to the design to ensure portability. After I made the models I realized that I forgot to add the speaker and decided to use external speakers I already have.
+Challenges: I had to troubleshoot some GPIO pin assignments and adjust screen resolution settings to match the display size. Installing the correct audio libraries for the microphone and speaker also took some trial and error.
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)
+Next steps: I plan to refine the code once all the parts arrive if my project gets approved. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNywicHVyIjoiYmxvYl9pZCJ9fQ==--21c052fae998170571d86fef1f60d7ece5c18f91/image.png)
   
 
