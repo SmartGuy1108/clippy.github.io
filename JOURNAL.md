@@ -67,3 +67,15 @@ Challenges: I had to troubleshoot some GPIO pin assignments and adjust screen re
 Next steps: I plan to refine the code once all the parts arrive if my project gets approved. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNywicHVyIjoiYmxvYl9pZCJ9fQ==--21c052fae998170571d86fef1f60d7ece5c18f91/image.png)
   
 
+## 10/29/2025 - Made the 3d model  
+
+What I did: I uploaded the case and learned how to use Onshape.
+
+How I did it: To learn Onshape I watched the tutorials in the learning hub and practiced moving around. I edited the case to make sure there is enough space for the pins of the screen to fit.
+
+What went well: Learning Onshape was a hard, but once I got the hang of it, it became easy.
+
+What's next: I will add a powerbank to the design to ensure portability. After I made the models I realized that I forgot to add the speaker and decided to use external speakers I already have.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c788d728c64039b5e1212e025c0269686ac2e26/image.png)  
+
