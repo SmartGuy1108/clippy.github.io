@@ -1,5 +1,4 @@
-Item Name,Description,Quantity,Unit Price (USD),Total Price (USD),Shipping Date,Seller
-GEYUOTE Portable Charger,"10000mAh 22.5W Power Bank with USB-C (Input&Output), Fast Charging Battery Pack Compatible with iPhone",1,7.49,7.49,November 3,Amazon
-Super Mini USB Computer Microphone,"Smallest Home Adapter for PC Laptop Desktop Chatting Recording FaceTime, Mini USB 2.0 Microphone",1,5.59,5.59,November 3,Amazon
-Doreha 0.96 inch OLED i2c Display Module,"IIC Serial LCD Screen 0.96"" LED Module Display Yellow Blue 12864 OLED 1.3V-3.6V Compatible with Nano Display",1,5.75,5.75,November 3,Amazon
-,,,"Subtotal",18.83,,
+Item,Quantity,Price (USD),Seller,Notes
+DIY Pillow Speaker 3.5mm Mini Stereo Speaker,1,6.34,zhihui002,Portable CD/MP3 speaker, free shipping
+Mini USB Microphone (Plug and Play),1,5.80,vener-8640,Compatible with all PC computers, free shipping
+0.96" Yellow I2C OLED Display (128x64, SSD1306/SSD1315),1,4.23,ImportedElectronicsStore,Arduino compatible, 
