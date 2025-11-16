@@ -30,6 +30,7 @@ Mini USB Microphone (Plug and Play),	1,	5.80,	vener-8640	Compatible with all PC 
 And this is my case:
 
 
-<img width="824" height="493" alt="image" src="https://github.com/user-attachments/assets/69b368fd-a949-425a-945a-42e0160aff64" />
+<img width="958" height="687" alt="image" src="https://github.com/user-attachments/assets/b616d9c9-f20a-4523-afa8-a9f5eda5dbc0" />
+
 
 
