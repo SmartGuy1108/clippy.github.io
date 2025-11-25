@@ -32,5 +32,16 @@ And this is my case:
 
 <img width="958" height="687" alt="image" src="https://github.com/user-attachments/assets/b616d9c9-f20a-4523-afa8-a9f5eda5dbc0" />
 
+And this is how the final product looks like:
+
+<img width="512" height="508" alt="Screenshot 2025-11-20 161659" src="https://github.com/user-attachments/assets/347f1d51-0241-4ee6-beb0-d7adc219b0c6" />
+
+<img width="660" height="480" alt="Screenshot 2025-11-20 161433" src="https://github.com/user-attachments/assets/3fcc8ecb-6aa1-4775-a806-8c9723f59fb8" />
+
+
+
+
+
+
 
 
