@@ -19,9 +19,8 @@ To make this on your own get the matireals listed above and use my code!
 This is what I used: 
 
 Item,Quantity,Price (USD),Seller,Notes,Total (USD),Link
-"Mini USB Microphone (Plug and Play)",1,5.99,"Eclectic Wonderments","Compatible with all PC - free shipping",5.99,https://ebay.us/m/C5zbvE
-"IIC I2C 0.91"" 128x32 white OLED LCD Display Module 3.3v 5v For PIC Arduino NEW",1,1.68,"lovesell2013","Raspberry Pi Compatible",6.56,https://ebay.us/m/rekPHs
-
+"Mini USB Microphone (Plug and Play)",1,5.99,"Eclectic Wonderments","Compatible with all PC - free shipping",12.94,https://ebay.us/m/C5zbvE
+"IIC I2C 0.91"" 128x32 white OLED LCD Display Module 3.3v 5v For PIC Arduino NEW",1,1.68,"lovesell2013","Raspberry Pi Compatible",7.51,https://ebay.us/m/rekPHs
 
 And this is my case:
 
