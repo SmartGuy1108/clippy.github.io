@@ -6,7 +6,6 @@ This is my project for Hackclub Blueprint. It is an AI bot that you can chat wit
 Whats in it:
 - Raspberry Pi
 - A Mic
-- A Speaker
 - A Screen
 - A Potentiometer
 - The Case
