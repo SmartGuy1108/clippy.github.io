@@ -18,13 +18,10 @@ To make this on your own get the matireals listed above and use my code!
 
 This is what I used: 
 
-Item	Quantity	Price (USD)	Seller	Notes	Total (USD)
+Item,Quantity,Price (USD),Seller,Notes,Total (USD),Link
+"Mini USB Microphone (Plug and Play)",1,5.99,"Eclectic Wonderments","Compatible with all PC - free shipping",5.99,https://ebay.us/m/C5zbvE
+"IIC I2C 0.91"" 128x32 white OLED LCD Display Module 3.3v 5v For PIC Arduino NEW",1,1.68,"lovesell2013","Raspberry Pi Compatible",6.56,https://ebay.us/m/rekPHs
 
-DIY Pillow Speaker 3.5mm Mini Stereo Speaker,	1,	6.34,	zhihui002	Portable CD/MP3 speaker
-
-Mini USB Microphone (Plug and Play),	1,	5.80,	vener-8640	Compatible with all PC computers
-
-0.96 in Yellow I2C OLED Display 128x64 SSD1306/SSD1315,	1,	4.23,	ImportedElectronicsStore	Arduino compatible
 
 And this is my case:
 
